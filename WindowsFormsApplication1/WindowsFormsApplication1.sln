@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agenda", "WindowsFormsApplication1\Agenda.csproj", "{A7B1EB75-D972-41E4-8916-C130880CA895}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "AcessoDB\Negocio.csproj", "{ECD3EBEE-4611-48F4-B38D-11E6BD57E6A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B1EB75-D972-41E4-8916-C130880CA895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B1EB75-D972-41E4-8916-C130880CA895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B1EB75-D972-41E4-8916-C130880CA895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B1EB75-D972-41E4-8916-C130880CA895}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECD3EBEE-4611-48F4-B38D-11E6BD57E6A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD3EBEE-4611-48F4-B38D-11E6BD57E6A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD3EBEE-4611-48F4-B38D-11E6BD57E6A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD3EBEE-4611-48F4-B38D-11E6BD57E6A3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
